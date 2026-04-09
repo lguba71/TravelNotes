@@ -22,3 +22,14 @@ Short cycling trip around Tisza Lake.
 ## Summary
 
 Efficient and accessible route.
+
+<h2>Gallery</h2>
+
+<div class="gallery">
+  <a href="/TravelNotes/assets/img/tisza-lake-1.jpg" target="_blank">
+    <img src="/TravelNotes/assets/img/tisza-lake-1.jpg" alt="Tisza Lake">
+  </a>
+  <a href="/TravelNotes/assets/img/tisza-lake-2.jpg" target="_blank">
+    <img src="/TravelNotes/assets/img/tisza-lake-2.jpg" alt="Tisza Lake">
+  </a>
+</div>
