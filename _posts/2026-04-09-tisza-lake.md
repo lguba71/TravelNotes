@@ -4,6 +4,9 @@ title: "Tisza Lake – Cycling Route Notes"
 date: 2026-04-09
 ---
 
+![Tisza Lake route]({{ '/assets/img/tisza-lake-1.jpg' | relative_url }})
+![Tisza Lake route]({{ '/assets/img/tisza-lake-2.jpg' | relative_url }})
+
 ## Overview
 
 Short cycling trip around Tisza Lake.
