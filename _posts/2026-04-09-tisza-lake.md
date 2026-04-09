@@ -23,10 +23,11 @@ Efficient and accessible route.
 <h2>Gallery</h2>
 
 <div class="gallery">
-  <a href="/TravelNotes/assets/img/tisza-lake-1.jpg" target="_blank">
-    <img src="/TravelNotes/assets/img/tisza-lake-1.jpg" alt="Tisza Lake">
-  </a>
-  <a href="/TravelNotes/assets/img/tisza-lake-2.jpg" target="_blank">
-    <img src="/TravelNotes/assets/img/tisza-lake-2.jpg" alt="Tisza Lake">
-  </a>
+  <img src="/TravelNotes/assets/img/tisza-lake-1.jpg" alt="Tisza Lake" onclick="openLightbox(this.src)">
+  <img src="/TravelNotes/assets/img/tisza-lake-2.jpg" alt="Tisza Lake" onclick="openLightbox(this.src)">
+</div>
+
+<div id="lightbox" class="lightbox" onclick="closeLightbox()">
+  <span class="lightbox-close">&times;</span>
+  <img class="lightbox-content" id="lightbox-img">
 </div>
