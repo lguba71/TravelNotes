@@ -7,3 +7,6 @@ plugins:
 
 baseurl: "/TravelNotes"
 url: "https://lguba71.github.io"
+
+css:
+  - /assets/css/custom.css
