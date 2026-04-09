@@ -3,7 +3,9 @@ layout: page
 title: Travel Notes
 ---
 
-Short, structured notes from routes, places, and trips.
+Short notes from routes, places, and trips.
+
+This space collects concise observations from cycling, motorcycle, train, and occasional family travel.
 
 ---
 
