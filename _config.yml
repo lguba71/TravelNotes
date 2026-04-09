@@ -1,0 +1,6 @@
+title: Travel Notes
+description: Short notes from routes, places, and trips.
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
