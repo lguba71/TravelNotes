@@ -23,8 +23,8 @@ Efficient and accessible route.
 <h2>Gallery</h2>
 
 <div class="gallery">
-  <img src="/assets/img/tisza-lake-1.jpg" alt="Tisza Lake" onclick="openLightbox(this)">
-  <img src="/assets/img/tisza-lake-2.jpg" alt="Tisza Lake" onclick="openLightbox(this)">
+  <img src="/assets/img/tisza-lake-1.jpg" alt="Tisza Lake" onclick="openLightbox(this.src)">
+  <img src="/assets/img/tisza-lake-2.jpg" alt="Tisza Lake" onclick="openLightbox(this.src)">
 </div>
 
 <div id="lightbox" class="lightbox" onclick="closeLightbox()">
