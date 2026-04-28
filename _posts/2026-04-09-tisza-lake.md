@@ -23,8 +23,8 @@ Efficient and accessible route.
 <h2>Gallery</h2>
 
 <div class="gallery">
-  <img src="{{ '/assets/img/tisza-lake-1.jpg' | relative_url }}" alt="Tisza Lake 1" onclick="openLightbox(this.src)">
-  <img src="{{ '/assets/img/tisza-lake-2.jpg' | relative_url }}" alt="Tisza Lake 2" onclick="openLightbox(this.src)">
+  <img class="gallery-thumb" src="{{ '/assets/img/tisza-lake-1.jpg' | relative_url }}" alt="Tisza Lake 1" onclick="openLightbox(this.src)">
+  <img class="gallery-thumb" src="{{ '/assets/img/tisza-lake-2.jpg' | relative_url }}" alt="Tisza Lake 2" onclick="openLightbox(this.src)">
 </div>
 
 <div id="lightbox" class="lightbox" onclick="closeLightbox()">
