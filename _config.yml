@@ -7,10 +7,7 @@ plugins:
   - jekyll-feed
 
 baseurl: "/TravelNotes"
-url: "https://iguba71.github.io"
+url: "https://lguba71.github.io"
 
 include:
   - assets
-
-css:
-  - /assets/css/custom.css
