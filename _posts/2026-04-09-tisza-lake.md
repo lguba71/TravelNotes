@@ -20,14 +20,12 @@ Short cycling trip around Tisza Lake.
 
 Efficient and accessible route.
 
-<h2>Gallery</h2>
+### Gallery
 
-<div class="gallery">
-  <img class="gallery-thumb" src="{{ '/assets/img/tisza-lake-1.jpg' | relative_url }}" alt="Tisza Lake 1" onclick="openLightbox(this.src)">
-  <img class="gallery-thumb" src="{{ '/assets/img/tisza-lake-2.jpg' | relative_url }}" alt="Tisza Lake 2" onclick="openLightbox(this.src)">
-</div>
+<a href="/assets/img/tisza-lake-1.jpg" class="lightbox">
+  <img src="/assets/img/tisza-lake-1.jpg" />
+</a>
 
-<div id="lightbox" class="lightbox" onclick="closeLightbox()">
-  <span class="lightbox-close">&times;</span>
-  <img class="lightbox-content" id="lightbox-img">
-</div>
+<a href="/assets/img/tisza-lake-2.jpg" class="lightbox">
+  <img src="/assets/img/tisza-lake-2.jpg" />
+</a>
