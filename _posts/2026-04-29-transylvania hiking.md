@@ -1,9 +1,8 @@
 ---
-
 layout: post
 title: "Transylvania – 3-Day Hiking Trip"
 date: 2026-05-03
-----------------
+---
 
 ## Overview
 
