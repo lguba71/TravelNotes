@@ -22,6 +22,8 @@ Efficient and accessible route.
 
 ### Gallery
 
+<div class="gallery">
+
 <a href="{{ '/assets/img/tisza-lake-1.jpg' | relative_url }}" class="lightbox">
   <img src="{{ '/assets/img/tisza-lake-1.jpg' | relative_url }}" />
 </a>
@@ -29,3 +31,5 @@ Efficient and accessible route.
 <a href="{{ '/assets/img/tisza-lake-2.jpg' | relative_url }}" class="lightbox">
   <img src="{{ '/assets/img/tisza-lake-2.jpg' | relative_url }}" />
 </a>
+
+</div>
