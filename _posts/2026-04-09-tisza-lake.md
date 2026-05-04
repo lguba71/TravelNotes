@@ -22,10 +22,10 @@ Efficient and accessible route.
 
 ### Gallery
 
-<a href="/assets/img/tisza-lake-1.jpg" class="lightbox">
-  <img src="/assets/img/tisza-lake-1.jpg" />
+<a href="{{ '/assets/img/tisza-lake-1.jpg' | relative_url }}" class="lightbox">
+  <img src="{{ '/assets/img/tisza-lake-1.jpg' | relative_url }}" />
 </a>
 
-<a href="/assets/img/tisza-lake-2.jpg" class="lightbox">
-  <img src="/assets/img/tisza-lake-2.jpg" />
+<a href="{{ '/assets/img/tisza-lake-2.jpg' | relative_url }}" class="lightbox">
+  <img src="{{ '/assets/img/tisza-lake-2.jpg' | relative_url }}" />
 </a>
