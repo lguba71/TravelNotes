@@ -1,12 +1,29 @@
-function openLightbox(src) {
-  const lightbox = document.getElementById('lightbox');
-  const lightboxImg = document.getElementById('lightbox-img');
+document.addEventListener("DOMContentLoaded", function () {
+  const links = document.querySelectorAll("a.lightbox");
 
-  lightboxImg.src = src;
-  lightbox.style.display = 'flex';
-}
+  links.forEach(link => {
+    link.addEventListener("click", function (e) {
+      e.preventDefault();
 
-function closeLightbox() {
-  const lightbox = document.getElementById('lightbox');
-  lightbox.style.display = 'none';
-}
+      const overlay = document.createElement("div");
+      overlay.className = "lightbox-overlay";
+
+      const img = document.createElement("img");
+      img.src = this.href;
+
+      overlay.appendChild(img);
+      document.body.appendChild(overlay);
+
+      overlay.addEventListener("click", () => {
+        overlay.remove();
+      });
+
+      document.addEventListener("keydown", function escHandler(e) {
+        if (e.key === "Escape") {
+          overlay.remove();
+          document.removeEventListener("keydown", escHandler);
+        }
+      });
+    });
+  });
+});
