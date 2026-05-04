@@ -13,8 +13,6 @@ Multi-day hiking trip in Transylvania between 2026-04-29 and 2026-05-03.
 * Terrain: forest trails, alpine ridges, rocky sections
 * Difficulty: moderate
 
----
-
 ## Day 1 – Mária-kő / Viewpoint
 
 Short but scenic hike to the Mária-kő viewpoint. The final section is steeper, with exposed parts, but the panoramic view makes it worthwhile.
@@ -41,8 +39,6 @@ Short but scenic hike to the Mária-kő viewpoint. The final section is steeper,
 </a>
 
 </div>
-
----
 
 ## Day 2 – Madarasi Hargita & Szökő Waterfall
 
@@ -76,8 +72,6 @@ After the summit, the route continues towards the Szökő waterfall, located in 
 
 </div>
 
----
-
 ## Day 3 – Széphavasok / Boldog Asszony Chapel
 
 The final day takes place in the Széphavas Mountains, ending at the Boldog Asszony Chapel.
@@ -108,7 +102,6 @@ This route is quieter and less crowded, with open alpine terrain and wide visibi
 
 </div>
 
----
 
 ## Summary
 
