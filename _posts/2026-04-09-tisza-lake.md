@@ -22,14 +22,20 @@ Efficient and accessible route.
 
 ### Gallery
 
-<div class="gallery">
+<div class="gallery-grid">
 
-<a href="{{ '/assets/img/tisza-lake-1.jpg' | relative_url }}" class="lightbox">
-  <img src="{{ '/assets/img/tisza-lake-1.jpg' | relative_url }}" />
-</a>
+  <figure>
+    <a href="{{ '/assets/img/tisza-lake-2026-04/tisza-lake-1.jpg' | relative_url }}" target="_blank" rel="noopener noreferrer">
+      <img src="{{ '/assets/img/tisza-lake-2026-04/tisza-lake-1.jpg' | relative_url }}" alt="Tisza Lake cycling route photo">
+    </a>
+    <figcaption>Tisza Lake cycling route.</figcaption>
+  </figure>
 
-<a href="{{ '/assets/img/tisza-lake-2.jpg' | relative_url }}" class="lightbox">
-  <img src="{{ '/assets/img/tisza-lake-2.jpg' | relative_url }}" />
-</a>
+  <figure>
+    <a href="{{ '/assets/img/tisza-lake-2026-04/tisza-lake-2.jpg' | relative_url }}" target="_blank" rel="noopener noreferrer">
+      <img src="{{ '/assets/img/tisza-lake-2026-04/tisza-lake-2.jpg' | relative_url }}" alt="Tisza Lake route detail">
+    </a>
+    <figcaption>Route detail from the Tisza Lake trip.</figcaption>
+  </figure>
 
 </div>
