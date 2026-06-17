@@ -64,21 +64,30 @@ After the summit, the route continues towards the Szökő waterfall, located in 
 * Windy conditions near summit
 * Slippery terrain near waterfall
 
-#### Gallery
+### Gallery
 
-<div class="gallery">
+<div class="gallery-grid">
 
-<a href="{{ '/assets/img/transylvania/day2_1.jpg' | relative_url }}" class="lightbox">
-  <img src="{{ '/assets/img/transylvania/day2_1.jpg' | relative_url }}" />
-</a>
+  <figure>
+    <a href="{{ '/assets/img/transylvania-2026-05/transylvania-day2-01.jpg' | relative_url }}" target="_blank" rel="noopener noreferrer">
+      <img src="{{ '/assets/img/transylvania-2026-05/transylvania-day2-01.jpg' | relative_url }}" alt="Madarasi Hargita hiking route">
+    </a>
+    <figcaption>Madarasi Hargita hiking route.</figcaption>
+  </figure>
 
-<a href="{{ '/assets/img/transylvania/day2_2.jpg' | relative_url }}" class="lightbox">
-  <img src="{{ '/assets/img/transylvania/day2_2.jpg' | relative_url }}" />
-</a>
+  <figure>
+    <a href="{{ '/assets/img/transylvania-2026-05/transylvania-day2-02.jpg' | relative_url }}" target="_blank" rel="noopener noreferrer">
+      <img src="{{ '/assets/img/transylvania-2026-05/transylvania-day2-02.jpg' | relative_url }}" alt="Mountain section near Madarasi Hargita">
+    </a>
+    <figcaption>Mountain section near Madarasi Hargita.</figcaption>
+  </figure>
 
-<a href="{{ '/assets/img/transylvania/day2_3.jpg' | relative_url }}" class="lightbox">
-  <img src="{{ '/assets/img/transylvania/day2_3.jpg' | relative_url }}" />
-</a>
+  <figure>
+    <a href="{{ '/assets/img/transylvania-2026-05/transylvania-day2-03.jpg' | relative_url }}" target="_blank" rel="noopener noreferrer">
+      <img src="{{ '/assets/img/transylvania-2026-05/transylvania-day2-03.jpg' | relative_url }}" alt="Szökő waterfall forest section">
+    </a>
+    <figcaption>Szökő waterfall forest section.</figcaption>
+  </figure>
 
 </div>
 
@@ -94,21 +103,30 @@ This route is quieter and less crowded, with open alpine terrain and wide visibi
 * Wide panoramic views
 * Relaxed final day
 
-#### Gallery
+### Gallery
 
-<div class="gallery">
+<div class="gallery-grid">
 
-<a href="{{ '/assets/img/transylvania/day3_1.jpg' | relative_url }}" class="lightbox">
-  <img src="{{ '/assets/img/transylvania/day3_1.jpg' | relative_url }}" />
-</a>
+  <figure>
+    <a href="{{ '/assets/img/transylvania-2026-05/transylvania-day3-01.jpg' | relative_url }}" target="_blank" rel="noopener noreferrer">
+      <img src="{{ '/assets/img/transylvania-2026-05/transylvania-day3-01.jpg' | relative_url }}" alt="Széphavasok hiking route">
+    </a>
+    <figcaption>Széphavasok hiking route.</figcaption>
+  </figure>
 
-<a href="{{ '/assets/img/transylvania/day3_2.jpg' | relative_url }}" class="lightbox">
-  <img src="{{ '/assets/img/transylvania/day3_2.jpg' | relative_url }}" />
-</a>
+  <figure>
+    <a href="{{ '/assets/img/transylvania-2026-05/transylvania-day3-02.jpg' | relative_url }}" target="_blank" rel="noopener noreferrer">
+      <img src="{{ '/assets/img/transylvania-2026-05/transylvania-day3-02.jpg' | relative_url }}" alt="Open mountain landscape in the Széphavas Mountains">
+    </a>
+    <figcaption>Open mountain landscape.</figcaption>
+  </figure>
 
-<a href="{{ '/assets/img/transylvania/day3_3.jpg' | relative_url }}" class="lightbox">
-  <img src="{{ '/assets/img/transylvania/day3_3.jpg' | relative_url }}" />
-</a>
+  <figure>
+    <a href="{{ '/assets/img/transylvania-2026-05/transylvania-day3-03.jpg' | relative_url }}" target="_blank" rel="noopener noreferrer">
+      <img src="{{ '/assets/img/transylvania-2026-05/transylvania-day3-03.jpg' | relative_url }}" alt="Boldog Asszony Chapel hiking endpoint">
+    </a>
+    <figcaption>Boldog Asszony Chapel area.</figcaption>
+  </figure>
 
 </div>
 
