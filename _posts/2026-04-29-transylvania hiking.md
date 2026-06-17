@@ -23,21 +23,30 @@ Short but scenic hike to the Mária-kő viewpoint. The final section is steeper,
 * Great viewpoint over the valley
 * Short but intense final climb
 
-#### Gallery
+### Gallery
 
-<div class="gallery">
+<div class="gallery-grid">
 
-<a href="{{ '/assets/img/transylvania/day1_1.jpg' | relative_url }}" class="lightbox">
-  <img src="{{ '/assets/img/transylvania/day1_1.jpg' | relative_url }}" />
-</a>
+  <figure>
+    <a href="{{ '/assets/img/transylvania-2026-05/transylvania-day1-01.jpg' | relative_url }}" target="_blank" rel="noopener noreferrer">
+      <img src="{{ '/assets/img/transylvania-2026-05/transylvania-day1-01.jpg' | relative_url }}" alt="Transylvania hiking route, day 1">
+    </a>
+    <figcaption>Day 1 hiking route in Transylvania.</figcaption>
+  </figure>
 
-<a href="{{ '/assets/img/transylvania/day1_2.jpg' | relative_url }}" class="lightbox">
-  <img src="{{ '/assets/img/transylvania/day1_2.jpg' | relative_url }}" />
-</a>
+  <figure>
+    <a href="{{ '/assets/img/transylvania-2026-05/transylvania-day1-02.jpg' | relative_url }}" target="_blank" rel="noopener noreferrer">
+      <img src="{{ '/assets/img/transylvania-2026-05/transylvania-day1-02.jpg' | relative_url }}" alt="Mountain trail in Transylvania">
+    </a>
+    <figcaption>Mountain trail section.</figcaption>
+  </figure>
 
-<a href="{{ '/assets/img/transylvania/day1_3.jpg' | relative_url }}" class="lightbox">
-  <img src="{{ '/assets/img/transylvania/day1_3.jpg' | relative_url }}" />
-</a>
+  <figure>
+    <a href="{{ '/assets/img/transylvania-2026-05/transylvania-day1-03.jpg' | relative_url }}" target="_blank" rel="noopener noreferrer">
+      <img src="{{ '/assets/img/transylvania-2026-05/transylvania-day1-03.jpg' | relative_url }}" alt="Viewpoint during the Transylvania hike">
+    </a>
+    <figcaption>Viewpoint during the hike.</figcaption>
+  </figure>
 
 </div>
 
