@@ -1,41 +1,41 @@
 ---
 layout: post
-title: "Tisza Lake – Cycling Route Notes"
+title: "Tisza-tó – kerékpáros útvonaljegyzet"
 date: 2026-04-09
 ---
 
-## Overview
+## Áttekintés
 
-Short cycling trip around Tisza Lake.
+Rövid kerékpáros túra a Tisza-tó körül.
 
-- Distance: 65 km  
-- Terrain: flat  
+- Táv: 65 km  
+- Terep: sík  
 
-## Observations
+## Megfigyelések
 
-- Low traffic  
-- Good infrastructure  
+- Alacsony forgalom  
+- Jó kerékpáros infrastruktúra  
 
-## Summary
+## Összegzés
 
-Efficient and accessible route.
+Könnyen teljesíthető, jól követhető útvonal. Jó választás egy nyugodt, sík kerékpáros körhöz.
 
-### Gallery
+### Galéria
 
 <div class="gallery-grid">
 
   <figure>
     <a href="{{ '/assets/img/tisza-lake-2026-04/tisza-lake-1.jpg' | relative_url }}" target="_blank" rel="noopener noreferrer">
-      <img src="{{ '/assets/img/tisza-lake-2026-04/tisza-lake-1.jpg' | relative_url }}" alt="Tisza Lake cycling route photo">
+      <img src="{{ '/assets/img/tisza-lake-2026-04/tisza-lake-1.jpg' | relative_url }}" alt="Tisza-tavi kerékpáros útvonal képe">
     </a>
-    <figcaption>Tisza Lake cycling route.</figcaption>
+    <figcaption>Tisza-tavi kerékpáros útvonal.</figcaption>
   </figure>
 
   <figure>
     <a href="{{ '/assets/img/tisza-lake-2026-04/tisza-lake-2.jpg' | relative_url }}" target="_blank" rel="noopener noreferrer">
-      <img src="{{ '/assets/img/tisza-lake-2026-04/tisza-lake-2.jpg' | relative_url }}" alt="Tisza Lake route detail">
+      <img src="{{ '/assets/img/tisza-lake-2026-04/tisza-lake-2.jpg' | relative_url }}" alt="Részlet a Tisza-tavi túráról">
     </a>
-    <figcaption>Route detail from the Tisza Lake trip.</figcaption>
+    <figcaption>Részlet a Tisza-tavi túráról.</figcaption>
   </figure>
 
 </div>
