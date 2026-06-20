@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
+title: Az oldalról
 permalink: /about/
 ---
 
-Travel Notes is a small collection of short, structured notes from routes, places, and trips.
+A Túrajegyzetek rövid, strukturált feljegyzések gyűjteménye túrákról, útvonalakról, helyekről és személyes tapasztalatokról.
 
-The focus is on simple observations rather than traditional blogging.
+A cél nem klasszikus blogírás, hanem egyszerű emlékeztető: hol jártam, mi volt érdekes, mi működött jól, és mit érdemes megjegyezni egy későbbi út előtt.
 
-Topics may include:
-- cycling routes
-- motorcycle trips
-- train journeys
-- occasional family travel
+Témák lehetnek:
+
+- kerékpáros útvonalak,
+- motoros utak,
+- vonatos utazások,
+- gyalogtúrák,
+- családi vagy rövid kirándulások.
