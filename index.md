@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Travel Notes
+title: Túrajegyzetek
 ---
 
-Short notes from routes, places, and trips.
+Rövid jegyzetek túrákról, útvonalakról és helyekről.
 
-This space collects concise observations from cycling, motorcycle, train, and occasional family travel.
+Nem útikönyv, inkább személyes emlékeztető: merre jártam, mi volt érdekes, mit érdemes megjegyezni, és hova lenne jó visszatérni.
 
 ---
 
-## Latest notes
+## Legutóbbi jegyzetek
 
 <ul>
 {% for post in site.posts %}
