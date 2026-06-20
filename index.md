@@ -28,10 +28,30 @@ Nem útikönyv, inkább személyes emlékeztető: merre jártam, mi volt érdeke
 
 <details class="year-archive__group">
   <summary>2025</summary>
-  <p class="year-archive__empty">Nincs jegyzet.</p>
+  <ul class="note-list">
+  {% for post in site.posts %}
+    {% assign post_year = post.date | date: "%Y" %}
+    {% if post_year == "2025" %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <small>— {{ post.date | date: "%Y-%m-%d" }}</small>
+      </li>
+    {% endif %}
+  {% endfor %}
+  </ul>
 </details>
 
 <details class="year-archive__group">
   <summary>2024</summary>
-  <p class="year-archive__empty">Nincs jegyzet.</p>
+  <ul class="note-list">
+  {% for post in site.posts %}
+    {% assign post_year = post.date | date: "%Y" %}
+    {% if post_year == "2024" %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <small>— {{ post.date | date: "%Y-%m-%d" }}</small>
+      </li>
+    {% endif %}
+  {% endfor %}
+  </ul>
 </details>
