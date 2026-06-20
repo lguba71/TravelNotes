@@ -1,143 +1,143 @@
 ---
 layout: post
-title: "Transylvania – 3-Day Hiking Trip"
+title: "Erdély – 3 napos túra"
 date: 2026-05-03
 ---
 
-## Overview
+## Áttekintés
 
-Multi-day hiking trip in Transylvania between 2026-04-29 and 2026-05-03.
+Többnapos erdélyi túra 2026-04-29 és 2026-05-03 között.
 
-* Duration: 3 days hiking
-* Region: Eastern Carpathians
-* Terrain: forest trails, alpine ridges, rocky sections
-* Difficulty: moderate
+* Túranapok száma: 3 nap
+* Régió: Keleti-Kárpátok
+* Terep: erdei ösvények, hegygerincek, köves szakaszok
+* Nehézség: közepes
 
 
-### Day 1 – Mária-kő / Viewpoint
+### 1. nap – Mária-kő / kilátópont
 
-Short but scenic hike to the Mária-kő viewpoint. The final section is steeper, with exposed parts, but the panoramic view makes it worthwhile.
+Rövid, de látványos túra a Mária-kő kilátópontjához. Az utolsó szakasz meredekebb és helyenként kitettebb, de a panoráma miatt megéri felmenni.
 
-**Notes:**
+**Jegyzetek:**
 
-* Great viewpoint over the valley
-* Short but intense final climb
+* Szép kilátás a völgyre
+* Rövid, de intenzív záró emelkedő
 
-### Gallery
+### Galéria
 
 <div class="gallery-grid">
 
   <figure>
     <a href="{{ '/assets/img/transylvania-2026-05/transylvania-day1-01.jpg' | relative_url }}" target="_blank" rel="noopener noreferrer">
-      <img src="{{ '/assets/img/transylvania-2026-05/transylvania-day1-01.jpg' | relative_url }}" alt="Transylvania hiking route, day 1">
+      <img src="{{ '/assets/img/transylvania-2026-05/transylvania-day1-01.jpg' | relative_url }}" alt="Erdélyi túraútvonal, 1. nap">
     </a>
-    <figcaption>Day 1 hiking route in Transylvania.</figcaption>
+    <figcaption>1. napi túraútvonal Erdélyben.</figcaption>
   </figure>
 
   <figure>
     <a href="{{ '/assets/img/transylvania-2026-05/transylvania-day1-02.jpg' | relative_url }}" target="_blank" rel="noopener noreferrer">
-      <img src="{{ '/assets/img/transylvania-2026-05/transylvania-day1-02.jpg' | relative_url }}" alt="Mountain trail in Transylvania">
+      <img src="{{ '/assets/img/transylvania-2026-05/transylvania-day1-02.jpg' | relative_url }}" alt="Hegyi ösvény Erdélyben">
     </a>
-    <figcaption>Mountain trail section.</figcaption>
+    <figcaption>Hegyi ösvényrészlet.</figcaption>
   </figure>
 
   <figure>
     <a href="{{ '/assets/img/transylvania-2026-05/transylvania-day1-03.jpg' | relative_url }}" target="_blank" rel="noopener noreferrer">
-      <img src="{{ '/assets/img/transylvania-2026-05/transylvania-day1-03.jpg' | relative_url }}" alt="Viewpoint during the Transylvania hike">
+      <img src="{{ '/assets/img/transylvania-2026-05/transylvania-day1-03.jpg' | relative_url }}" alt="Kilátópont az erdélyi túra során">
     </a>
-    <figcaption>Viewpoint during the hike.</figcaption>
+    <figcaption>Kilátópont a túra során.</figcaption>
   </figure>
 
 </div>
 
-### Day 2 – Madarasi Hargita & Szökő Waterfall
+### 2. nap – Madarasi Hargita és Szökő-vízesés
 
-A longer hiking day combining a mountain summit and a waterfall visit.
+Hosszabb túranap, amely egy hegyi csúcsot és egy vízeséshez vezető erdei szakaszt is érint.
 
-The ascent to Madarasi Hargita is gradual, mostly through forest and open terrain. Weather conditions can change quickly near the top.
+A Madarasi Hargitára vezető út fokozatosan emelkedik, nagyrészt erdős és nyíltabb terepen. A csúcs környékén az időjárás gyorsan változhat.
 
-After the summit, the route continues towards the Szökő waterfall, located in a shaded and humid forest environment.
+A túra másik része a Szökő-vízesés felé vezet, amely árnyékosabb, nedvesebb erdei környezetben található.
 
-**Notes:**
+**Jegyzetek:**
 
-* Steady ascent
-* Windy conditions near summit
-* Slippery terrain near waterfall
+* Fokozatos emelkedő
+* Szelesebb körülmények a csúcs közelében
+* Csúszósabb terep a vízesés környékén
 
-### Gallery
+### Galéria
 
 <div class="gallery-grid">
 
   <figure>
     <a href="{{ '/assets/img/transylvania-2026-05/transylvania-day2-01.jpg' | relative_url }}" target="_blank" rel="noopener noreferrer">
-      <img src="{{ '/assets/img/transylvania-2026-05/transylvania-day2-01.jpg' | relative_url }}" alt="Madarasi Hargita hiking route">
+      <img src="{{ '/assets/img/transylvania-2026-05/transylvania-day2-01.jpg' | relative_url }}" alt="Túraútvonal a Madarasi Hargita környékén">
     </a>
-    <figcaption>Madarasi Hargita hiking route.</figcaption>
+    <figcaption>Túraútvonal a Madarasi Hargita környékén.</figcaption>
   </figure>
 
   <figure>
     <a href="{{ '/assets/img/transylvania-2026-05/transylvania-day2-02.jpg' | relative_url }}" target="_blank" rel="noopener noreferrer">
-      <img src="{{ '/assets/img/transylvania-2026-05/transylvania-day2-02.jpg' | relative_url }}" alt="Mountain section near Madarasi Hargita">
+      <img src="{{ '/assets/img/transylvania-2026-05/transylvania-day2-02.jpg' | relative_url }}" alt="Hegyi szakasz a Madarasi Hargita közelében">
     </a>
-    <figcaption>Mountain section near Madarasi Hargita.</figcaption>
+    <figcaption>Hegyi szakasz a Madarasi Hargita közelében.</figcaption>
   </figure>
 
   <figure>
     <a href="{{ '/assets/img/transylvania-2026-05/transylvania-day2-03.jpg' | relative_url }}" target="_blank" rel="noopener noreferrer">
-      <img src="{{ '/assets/img/transylvania-2026-05/transylvania-day2-03.jpg' | relative_url }}" alt="Szökő waterfall forest section">
+      <img src="{{ '/assets/img/transylvania-2026-05/transylvania-day2-03.jpg' | relative_url }}" alt="Erdős szakasz a Szökő-vízesés környékén">
     </a>
-    <figcaption>Szökő waterfall forest section.</figcaption>
+    <figcaption>Erdős szakasz a Szökő-vízesés környékén.</figcaption>
   </figure>
 
 </div>
 
-### Day 3 – Széphavasok / Boldog Asszony Chapel
+### 3. nap – Széphavasok / Boldog Asszony-kápolna
 
-The final day takes place in the Széphavas Mountains, ending at the Boldog Asszony Chapel.
+Az utolsó túranap a Széphavasok térségében vezetett, a Boldog Asszony-kápolna érintésével.
 
-This route is quieter and less crowded, with open alpine terrain and wide visibility. The chapel provides a calm and scenic endpoint.
+Ez az útvonal csendesebb és kevésbé forgalmas. Nyíltabb hegyi terep, nagyobb látótávolság és nyugodtabb hangulat jellemzi. A kápolna jó, csendes zárópontja volt a túrának.
 
-**Notes:**
+**Jegyzetek:**
 
-* Remote and wild area
-* Wide panoramic views
-* Relaxed final day
+* Csendesebb, vadabb jellegű terület
+* Széles panoráma
+* Nyugodt lezárás a harmadik napon
 
-### Gallery
+### Galéria
 
 <div class="gallery-grid">
 
   <figure>
     <a href="{{ '/assets/img/transylvania-2026-05/transylvania-day3-01.jpg' | relative_url }}" target="_blank" rel="noopener noreferrer">
-      <img src="{{ '/assets/img/transylvania-2026-05/transylvania-day3-01.jpg' | relative_url }}" alt="Széphavasok hiking route">
+      <img src="{{ '/assets/img/transylvania-2026-05/transylvania-day3-01.jpg' | relative_url }}" alt="Túraútvonal a Széphavasok térségében">
     </a>
-    <figcaption>Széphavasok hiking route.</figcaption>
+    <figcaption>Túraútvonal a Széphavasok térségében.</figcaption>
   </figure>
 
   <figure>
     <a href="{{ '/assets/img/transylvania-2026-05/transylvania-day3-02.jpg' | relative_url }}" target="_blank" rel="noopener noreferrer">
-      <img src="{{ '/assets/img/transylvania-2026-05/transylvania-day3-02.jpg' | relative_url }}" alt="Open mountain landscape in the Széphavas Mountains">
+      <img src="{{ '/assets/img/transylvania-2026-05/transylvania-day3-02.jpg' | relative_url }}" alt="Nyílt hegyi táj a Széphavasokban">
     </a>
-    <figcaption>Open mountain landscape.</figcaption>
+    <figcaption>Nyílt hegyi táj.</figcaption>
   </figure>
 
   <figure>
     <a href="{{ '/assets/img/transylvania-2026-05/transylvania-day3-03.jpg' | relative_url }}" target="_blank" rel="noopener noreferrer">
-      <img src="{{ '/assets/img/transylvania-2026-05/transylvania-day3-03.jpg' | relative_url }}" alt="Boldog Asszony Chapel hiking endpoint">
+      <img src="{{ '/assets/img/transylvania-2026-05/transylvania-day3-03.jpg' | relative_url }}" alt="Boldog Asszony-kápolna környéke">
     </a>
-    <figcaption>Boldog Asszony Chapel area.</figcaption>
+    <figcaption>Boldog Asszony-kápolna környéke.</figcaption>
   </figure>
 
 </div>
 
 
-## Summary
+## Összegzés
 
-A varied multi-day hiking trip across Transylvania featuring:
+Változatos, többnapos erdélyi túra volt, amelyben többféle terep és hangulat jelent meg:
 
-* scenic viewpoints
-* volcanic mountain terrain
-* waterfalls
-* alpine landscapes
+* kilátópontok,
+* vulkanikus hegyvidéki táj,
+* vízesés,
+* nyíltabb hegyi környezet.
 
-Well-balanced itinerary with moderate difficulty and diverse environments.
+Kiegyensúlyozott, közepes nehézségű túra, sokféle látvánnyal és eltérő karakterű útvonalszakasszal.
