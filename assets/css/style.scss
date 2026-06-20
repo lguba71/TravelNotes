@@ -47,6 +47,21 @@ p, li {
   text-decoration: underline;
 }
 
+.latest-note-list {
+  margin-bottom: 2rem;
+}
+
+.year-archive__group {
+  margin-top: 1.5rem;
+}
+
+.year-archive__group summary {
+  cursor: pointer;
+  font-size: 2rem;
+  line-height: 1.3;
+  margin-bottom: 0.8rem;
+}
+
 /* Header */
 .site-header {
   border-top: none;
