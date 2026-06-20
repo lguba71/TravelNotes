@@ -2,11 +2,6 @@
   <data class="u-url" href="{{ '/' | relative_url }}"></data>
 
   <div class="wrapper travel-footer__inner">
-    <div class="travel-footer__brand">
-      <p class="travel-footer__title">{{ site.title | escape }}</p>
-      <p class="travel-footer__text">Személyes túra- és utazási jegyzetek.</p>
-    </div>
-
     <nav class="travel-footer__links" aria-label="Külső hivatkozások">
       {% for item in site.data.footer_links %}
         <a href="{{ item.url | default: '#' }}"{% if item.url and item.url != '#' %} target="_blank" rel="noopener noreferrer"{% endif %}>{{ item.title }}</a>
