@@ -11,11 +11,27 @@ Nem útikönyv, inkább személyes emlékeztető: merre jártam, mi volt érdeke
 
 ## Legutóbbi jegyzetek
 
-<ul>
-{% for post in site.posts %}
-  <li>
-    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    <small>— {{ post.date | date: "%Y-%m-%d" }}</small>
-  </li>
-{% endfor %}
-</ul>
+<details class="year-archive__group">
+  <summary>2026</summary>
+  <ul class="note-list">
+  {% for post in site.posts %}
+    {% assign post_year = post.date | date: "%Y" %}
+    {% if post_year == "2026" %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <small>— {{ post.date | date: "%Y-%m-%d" }}</small>
+      </li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+</details>
+
+<details class="year-archive__group">
+  <summary>2025</summary>
+  <p class="year-archive__empty">Nincs jegyzet.</p>
+</details>
+
+<details class="year-archive__group">
+  <summary>2024</summary>
+  <p class="year-archive__empty">Nincs jegyzet.</p>
+</details>
